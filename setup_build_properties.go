@@ -35,9 +35,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/arduino/arduino-builder/constants"
-	"github.com/arduino/arduino-builder/types"
-	"github.com/arduino/arduino-builder/utils"
+	"github.com/tekka007/arduino-builder/constants"
+	"github.com/tekka007/arduino-builder/types"
+	"github.com/tekka007/arduino-builder/utils"
 	"github.com/arduino/go-properties-map"
 	"github.com/arduino/go-timeutils"
 )
